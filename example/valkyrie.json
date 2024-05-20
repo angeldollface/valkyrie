@@ -1,0 +1,10 @@
+{
+	"name": "hello",
+	"imports":{
+		"std": "https://github.com/angeldollface/valkyrie/stdlib/lib.ts"
+	},
+	"permissions": [
+		"stdout",
+		"stderr"
+	]
+}

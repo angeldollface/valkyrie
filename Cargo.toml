@@ -1,0 +1,11 @@
+[package]
+name = "valkyrie"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+cliply = "0.2.0"
+coutils = "2.0.0"
+serde_json = "1.0.117"
+serde = { version = "1.0.202", features = ["derive"] }
